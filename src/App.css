@@ -28,6 +28,26 @@
   color: #61dafb;
 }
 
+.products{
+  margin-top: 100px;
+}
+
+.form_container {
+  display: flex;
+  margin-top: 20px;
+}
+
+.modal-body>input,.modal-body>button{
+  margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
